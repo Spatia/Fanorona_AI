@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "ia.h": "c",
+        "stdlib.h": "c",
+        "type.h": "c",
+        "variant": "c",
+        "chrono": "c"
+    }
+}
